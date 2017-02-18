@@ -1,0 +1,16 @@
+---
+layout: page
+title: Sessies
+---
+{% for sessie in site.sessies %}
+  <div class="sessie">
+    <h2> {{ sessie.titel }} </h2>
+    <p><b>Tijd: {{ sessie.tijd }}</b></p>
+    {% assign plural = "s" if sessie.sprekers.size > 1 %}
+    Spreker{{ plural }}
+    {% for spreker in sessie.sprekers %}
+    	<a src="\sprekers\{{spreker}}"> {{ spreker }} </a>
+    {% endfor %}
+    {{ sessie.content }}
+  </div>
+{% endfor %}

@@ -1,0 +1,11 @@
+---
+layout: page
+title: Sprekers
+---
+{% for spreker in site.sprekers %}
+  <div class="spreker">
+    <h2> <img src="/assets/images/people/{{ spreker.image }}.jpg" alt="{{ spreker.naam }}"/> {{ spreker.naam }} </h2>
+    <b>{{ spreker.titel }} </b>
+    {{ spreker.content }}
+  </div>
+{% endfor %}
