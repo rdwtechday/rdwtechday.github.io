@@ -1,7 +1,7 @@
 ---
 naam: Rik Marselis
 titel: Management Consultant Quality & Testing at Sogeti Nederland B.V.
-image: rik-marselis
+ref: rik-marselis
 ---
 As a Management Consultant in the field of Quality and Testing I have 3 work areas:
 1) Advisory assignments: Manage and Supervise quality and testing projects (e.g. end-to-end testing), create or improve quality and test policies, organize quality and testing organization. 

@@ -5,11 +5,17 @@ title: Sessies
 {% for sessie in site.sessies %}
   <div class="sessie">
     <h2> {{ sessie.titel }} </h2>
-    <p><b>Tijd: {{ sessie.tijd }}</b></p>
-    {% assign plural = "s" if sessie.sprekers.size > 1 %}
-    Spreker{{ plural }}
-    {% for spreker in sessie.sprekers %}
-    	<a src="\sprekers\{{spreker}}"> {{ spreker }} </a>
+    <p><b>Tijd: {{ sessie.tijd }}</b><br/>    
+    <b>Locatie: {{ sessie.locatie }}</b></p>
+    {% if  sessie.sprekers.size > 1 %}
+      Sprekers:
+    {% else %}
+      Spreker:
+    {% endif %}
+    {% for spreker_ref in sessie.sprekers %}
+    	{% for spreker in site.sprekers %}
+    	   {% if spreker_ref == spreker.ref %}<a href="\sprekers\{{spreker.ref}}"> {{ spreker.naam }} </a> &nbsp;{% endif %}
+    	{% endfor %}
     {% endfor %}
     {{ sessie.content }}
   </div>

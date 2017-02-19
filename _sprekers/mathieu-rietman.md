@@ -1,7 +1,7 @@
 ---
 naam: Mathieu Rietman
 titel: Cloud Solution Architect at Microsoft
-image: mathieu-rietman
+ref: mathieu-rietman
 ---
 I am an experienced IT Infrastructure Architect/Consultant/Client advisory in mid market and large corporate business with 20 years experience. Delivering high profile, complex IT projects to successful implementation for a satisfied client.
 

@@ -1,0 +1,56 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/assets/style-guide.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/assets/override-bootstrap-responsive.css" | relative_url }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+  <!-- Bootstrap Core CSS -->
+<link href="http://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+
+<!-- Fonts -->
+<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+<!-- Custom Theme CSS -->
+  
+  {% if jekyll.environment == 'production' and site.google_analytics %}
+  {% include google-analytics.html %}
+  {% endif %}
+</head>
+
+
+{% include intro.html %}
+
+<section id="speaker" class="content-section text-center download-section homepage">
+  <div class="container">
+    <h2 class="speaker-title">Sprekers</h2>
+
+    {% for spreker in site.sprekers %}
+      <div class="speakers-wrapper text-left">
+        <div class="row speaker">
+          <div class="col-sm-2 image center">
+            <div class="image-box">
+              <img src="/assets/images/people/{{ spreker.ref }}.jpg" alt="{{ spreker.naam }}"/>
+            </div>
+          </div>
+
+          <div class="col-sm-10">
+            <p class="name">{{ spreker.naam }}</p>
+            <p class="about-speaker">{{ spreker.titel }}</p>
+            <p class="about-speaker">{{ spreker.content }}</p>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+
+
+
+         

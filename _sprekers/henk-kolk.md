@@ -1,6 +1,6 @@
 ---
 naam: Henk Kolk
-image: henk-kolk
+ref: henk-kolk
 titel: Chief Engineer
 ---
 Henk and his merry band of extraordinary engineers are designing, creating and operating the next generations of ING's global engineering platform. Challenges that thrill them are: 
