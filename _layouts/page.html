@@ -1,14 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
 {% include head.html %}
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-custom">
+
 {% include nav.html %}
 
 <section class="content-section text-center download-section homepage">
   <div class="container">
+  <div class="inner-page">
+  <div class="container container-section">
         {{ content }}
+  </div>
+  </div>
   </div>
 </section>
 
 {% include footer.html %}
-
-
-
-         
+</body>
+</html>
