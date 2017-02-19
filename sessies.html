@@ -4,7 +4,7 @@ title: Sessies
 ---
 <h2 class="speaker-title">Sessies</h2>
 {% for sessie in site.sessies %}
-  <div class="sessie">
+  <div id = "{{sessie.title | cgi_escape}}" class="sessie">
     <h3> {{ sessie.titel }} </h3>
     <p><b>Tijd: {{ sessie.tijd }}</b><br/>    
     <b>Locatie: {{ sessie.locatie }}</b></p>
@@ -15,7 +15,7 @@ title: Sessies
     {% endif %}
     {% for spreker_ref in sessie.sprekers %}
     	{% for spreker in site.sprekers %}
-    	   {% if spreker_ref == spreker.ref %}<a href="\sprekers\{{spreker.ref}}"> {{ spreker.naam }} </a> &nbsp;{% endif %}
+    	   {% if spreker_ref == spreker.ref %}<a href="\sprekers#{{spreker.ref}}"> {{ spreker.naam }} </a> &nbsp;{% endif %}
     	{% endfor %}
     {% endfor %}
     {{ sessie.content }}

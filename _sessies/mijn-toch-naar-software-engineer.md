@@ -1,5 +1,5 @@
 ---
-sprekers: [makr-wolzak]
+sprekers: [mark-wolzak]
 track: Hybride
 titel: Mijn persoonlijke reis van datacenter engineer naar software engineer
 tijd: 09:00-0945

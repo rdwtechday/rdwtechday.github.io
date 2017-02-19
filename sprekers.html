@@ -5,7 +5,7 @@ title: Sprekers
     <h2 class="speaker-title">Sprekers</h2>
 
     {% for spreker in site.sprekers %}
-      <div class="speakers-wrapper text-left">
+      <div id="{{ spreker.ref }}" class="speakers-wrapper text-left">
         <div class="row speaker">
           <div class="col-sm-2 image center">
             <div class="image-box">
@@ -17,6 +17,12 @@ title: Sprekers
             <p class="name">{{ spreker.naam }}</p>
             <p class="about-speaker"><b>{{ spreker.titel }}</b></p>
             <p class="about-speaker">{{ spreker.content }}</p>
+            Sessie:
+            {% for sessie in site.sessies %}
+              {% for spreker_ref in sessie.sprekers %}
+                {% if spreker_ref == spreker.ref %}<a href="\sessies#{{sessie.title | cgi_escape}}"> {{ sessie.titel }} </a> &nbsp;{% endif %}
+              {% endfor %}
+            {% endfor %}
           </div>
         </div>
       </div>
