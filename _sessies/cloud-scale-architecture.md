@@ -1,9 +1,8 @@
 ---
 sprekers: [prajeesh-prathap]
-track: Infrastructuur
+track: Apps
 titel: Web Scale IT. Welke architectuurpatronen, Webscale IT voor RDW?
-
-tijd: 09:00-0945
+tijd: 11:15-12:15
 locatie: Zaal A
 ---
 

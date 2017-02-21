@@ -1,9 +1,8 @@
 ---
 sprekers: [remco-bruijn]
 track: Infrastructuur
-titel: Security
-
-tijd: 09:00-0945
+titel: Cloud Multicloud, voorkom vendor locking
+tijd: 14:30-15:30
 locatie: Zaal A
 ---
 

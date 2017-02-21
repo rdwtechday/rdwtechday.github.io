@@ -2,7 +2,7 @@
 sprekers: [robin-heringa]
 track: Infrastructuur
 titel: Microsoft Cloud Platform Vision
-tijd: 09:00-0945
+tijd: 13:15-14:15
 locatie: Zaal A
 ---
 Public cloud, Private Cloud of Hybrid Cloud? Azure, Azure Pack, Azure Stack?

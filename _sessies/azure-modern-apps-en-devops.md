@@ -1,8 +1,8 @@
 ---
 sprekers: [mathieu-rietman]
-track: Software
+track: Inspiratie
 titel: Azure Modern applicatie en DevOps
-tijd: 09:00-0945
+tijd: 14:30-15:30
 locatie: Zaal A
 ---
 In deze sessie wordt ingegaan op een deel van de diensten binnen Azure om snel applicaties te ontwikkelen en deze doormiddel van geïntegreerde Continuous Integration en Continuous Delivery mogelijkheden geautomatiseerd uit te rollen.

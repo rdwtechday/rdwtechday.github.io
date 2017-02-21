@@ -1,6 +1,12 @@
 ---
 layout: page
 title: Sessies
+tracks:
+  - Keynote
+  - Infrastructuur
+  - Apps
+  - Inspiratie
+  - Workshops
 ---
 
 
@@ -8,23 +14,34 @@ title: Sessies
   <img class="img-responsive" src="/assets/Schedule.png" alt="Schema" />
 </section>
 <p> &nbsp; </p>
-{% assign sorted_sessies = site.sessies | sort:"titel" %}
 
-{% for sessie in sorted_sessies %}
-  <div id = "{{sessie.title | cgi_escape}}" class="sessie">
-    <h3> {{ sessie.titel }} </h3>
-    <!-- <p><b>Tijd: {{ sessie.tijd }}</b><br/>
-    <b>Locatie: {{ sessie.locatie }}</b></p> !-->
-    {% if  sessie.sprekers.size > 1 %}
-      Sprekers:
-    {% else %}
-      Spreker:
-    {% endif %}
-    {% for spreker_ref in sessie.sprekers %}
-    	{% for spreker in site.sprekers %}
-    	   {% if spreker_ref == spreker.ref %}<a href="\sprekers#{{spreker.ref}}"> {{ spreker.naam }} </a> &nbsp;{% endif %}
-    	{% endfor %}
+
+
+
+{% for track in page.tracks %}
+  {% assign sorted_sessies = site.sessies | where: "track", track | sort:"tijd" %}
+
+  <div class="well">
+    <h2><span class="label label-info">{{track}}</span></h2>
+
+    {% for sessie in sorted_sessies %}
+      <div id = "{{sessie.title | cgi_escape}}" class="sessie">
+        <h3> {{ sessie.titel }} </h3>
+        <p><b>Tijd: {{ sessie.tijd }}</b><br/>
+        <!-- <b>Locatie: {{ sessie.locatie }}</b></p> !-->
+        {% if  sessie.sprekers.size > 1 %}
+          Sprekers:
+        {% else %}
+          Spreker:
+        {% endif %}
+        {% for spreker_ref in sessie.sprekers %}
+        	{% for spreker in site.sprekers %}
+        	   {% if spreker_ref == spreker.ref %}<a href="\sprekers#{{spreker.ref}}"> {{ spreker.naam }} </a> &nbsp;{% endif %}
+        	{% endfor %}
+        {% endfor %}
+        {{ sessie.content }}
+      </div>
     {% endfor %}
-    {{ sessie.content }}
-  </div>
+</div>  
 {% endfor %}
+

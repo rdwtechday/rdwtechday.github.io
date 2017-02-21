@@ -1,8 +1,8 @@
 ---
 sprekers: [henk-kolk]
-track: Inspiratie
-titel: Keynote
-tijd: 09:00-0945
+track: Keynote
+#titel: Keynote
+tijd: 09:00-09:45
 locatie: Zaal A
 ---
 Hier nog sessie content

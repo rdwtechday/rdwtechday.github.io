@@ -662,6 +662,10 @@
       margin: 15px 0px;
     }
 
+    h2.panel-heading {
+      margin: 0px 0px;
+    }
+
     p.copyright {
       margin-bottom: 10px;
     }

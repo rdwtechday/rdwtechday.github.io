@@ -1,8 +1,8 @@
 ---
 sprekers: [rik-marselis]
-track: Software
+track: Apps
 titel: Past het testvak nog in de nieuwe IT-wereld?
-tijd: 09:00-0945
+tijd: 10:00-11:00
 locatie: Zaal A
 ---
 De IT¬wereld verandert in hoog tempo. Agile en DevOps zijn de trefwoorden van vandaag. Kwaliteit wordt vanaf het
