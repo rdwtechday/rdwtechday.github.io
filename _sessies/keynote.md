@@ -5,4 +5,3 @@ track: Keynote
 tijd: 09:00-09:45
 locatie: Zaal A
 ---
-Hier nog sessie content
