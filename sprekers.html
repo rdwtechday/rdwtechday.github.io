@@ -2,7 +2,9 @@
 layout: page
 title: Sprekers
 ---
-{% for spreker in site.sprekers %}
+
+{% assign sorted_sprekers = site.sprekers | sort:"naam" %}
+{% for spreker in sorted_sprekers %}
   <div id="{{ spreker.ref }}" class="speakers-wrapper text-left">
     <div class="row speaker">
       <div class="col-sm-2 image center">

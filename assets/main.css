@@ -692,6 +692,12 @@
       outline: 0;
     }
 
+    .navbar-img {
+      height: 40px;
+      padding: 10px 20px 0 0; /* firefox bug fix */
+      width: auto;
+    }
+
     ul.font-size {
       font-size: 16px;
     }

@@ -4,11 +4,13 @@ title: Sessies
 ---
 
 
-<div class="col-sm-12">
+<section class="col-sm-12">
   <img class="img-responsive" src="/assets/Schedule.png" alt="Schema" />
-</div>
+</section>
 <p> &nbsp; </p>
-{% for sessie in site.sessies %}
+{% assign sorted_sessies = site.sessies | sort:"titel" %}
+
+{% for sessie in sorted_sessies %}
   <div id = "{{sessie.title | cgi_escape}}" class="sessie">
     <h3> {{ sessie.titel }} </h3>
     <!-- <p><b>Tijd: {{ sessie.tijd }}</b><br/>
