@@ -55,6 +55,12 @@
   color: #c1c1c1;
 }
 
+.navbar-brand>img {
+  height: 100%;
+  padding: 15px; /* firefox bug fix */
+  width: auto;
+}
+
 .container>.navbar-header, .container-fluid>.navbar-header, .container>.navbar-collapse, .container-fluid>.navbar-collapse {
   margin-top: 8px;
 }
