@@ -1,6 +1,11 @@
 ---
 naam: Remco Bruijn
-titel: Microsoft Azure, System Center and Infrastructure specialist | Managing Consultant at Insight24
+titel: Solution Architect VMware. Generalist for Cloud, virtualization, process frameworks and business/IT alignment
 ref: remco-bruijn
 ---
-I'm a result driven person with a customer centric approach. 18+ years of experience in the IT industry, acting as solution consultant (pre-sales), technical and functional implementation consultant (professional services) and as member/manager of technical support.
+Specialties: ITILv3 Expert, VMware Certified Professional, Project & Program Management,IT Service Management
+
+
+ 
+
+
