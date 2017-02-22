@@ -15,9 +15,6 @@ tracks:
 </section>
 <p> &nbsp; </p>
 
-
-
-
 {% for track in page.tracks %}
   {% assign sorted_sessies = site.sessies | where: "track", track | sort:"tijd" %}
 
