@@ -21,8 +21,8 @@ tracks:
 {% for track in page.tracks %}
   {% assign sorted_sessies = site.sessies | where: "track", track | sort:"tijd" %}
 
-  <div class="well">
-    <h2><span class="label label-info">{{track}}</span></h2>
+  <div class="well col-sm-12">
+    <div class="label label-info">{{track}}</div>
 
     {% for sessie in sorted_sessies %}
       <div id = "{{sessie.title | cgi_escape}}" class="sessie">
