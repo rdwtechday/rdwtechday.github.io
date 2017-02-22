@@ -1,7 +1,7 @@
 ---
-sprekers: [remco-bruijn]
+sprekers: [jan-willem-lammers]
 track: Infrastructuur
-titel: Cloud Multicloud, voorkom vendor locking
+titel: Cloud/Multi Cloud – Voorkom Vendor Lock-in
 tijd: 14:30-15:30
 locatie: Zaal A
 ---
