@@ -11,6 +11,19 @@ We have three collections:
 - Speaker
 - Session
 
+### Organizer collection
+The organizer pages are located in `/_organizers` and have three fields, the part beneath the last three dashes is not used. Organizers are shown in the `/about.html` page.
+```yaml
+---
+naam: John Doe
+ref: john-doe
+rol: Organizing endboss
+---
+```
+- `naam:` contains the name of the organizer
+- `ref`: contains a reference value which is used by the session collection and to find the speaker image in `/assets/people/<ref>.jpg`. No spaces allowed. I make it lower case and replace spaces by a `-` sign.
+- `rol`: contains the role of he organizer.
+
 ### Speaker Collection
 The speaker pages are located in `/_sprekers` and have three fields, the part beneath the last three dashes is used as a bio for the speaker. 
 ```yaml
