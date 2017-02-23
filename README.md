@@ -47,7 +47,7 @@ The session pages are located in `/_sessions` and have five fields, the part ben
 
 - `speakers`: is a list of speakers doing the session. it is a list of the ref value in the speaker pages
 
-The speaker list can be formateed like this
+The speaker list can be formatred like this
 ```yaml
 speakers: single-speaker
 ```
