@@ -12,7 +12,7 @@ We have three collections:
 - Organizer
 
 ### Speaker Collection
-The speaker pages are located in `/_sprekers` and have three fields, the part beneath the last three dashes is used as a bio for the speaker. The text is a markdown formatted text and will be converted to html automatically when the site is loaded by github pages.
+The speaker pages are located in `/_sprekers` and have three fields, the part beneath the last three dashes is used as a bio for the speaker. 
 ```yaml
 ---
 naam: John Doe
@@ -24,7 +24,7 @@ bio
 - `naam:` contains the name of the speaker
 - `ref`: contains a reference value which is used by the session collection and to find the speaker image in `/assets/people/<ref>.jpg`. No spaces allowed. I make it lower case and replace spaces by a `-` sign.
 - `titel`: The titel of the speaker
-- 
+-  `bio`: The text is a markdown formatted text and will be converted to html automatically when the site is loaded by github pages.
 
 
 A session is linked to a speaker through the sprekers field, the sprekers field must contain spreker.ref field. If so it will be shown linked to 
