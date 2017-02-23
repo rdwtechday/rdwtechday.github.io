@@ -3,4 +3,4 @@ naam: Robin Heringa
 titel: Technical Solutions Specialist DataCenter at Microsoft
 ref: robin-heringa
 ---
-Specialties: Technical architecture, Infrastructure, Virtualization (Hyper-V, System Center Private/Hybrid Cloud), Windows Azure, VMware Virtual Infrastructure, Microsoft Server System, Windows Server 2008 (R2) / 2012 (R2), Active Directory
+Als Technology Specialist binnen Microsoft Nederland specialiseer ik mij op Cloud Infrastructuren, Public, Private en Hybrid Cloud. In het interessante spanningsveld tussen publieke diensten en on-premise diensten ondersteun ik de klanten van Microsoft in het kiezen, ontwerpen en implementeren van de noodzakelijke technologie en het aanpassen van bestaande werkwijzen op de mogelijkheden die de nieuwe technologieën bieden.
