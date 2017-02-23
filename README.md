@@ -7,9 +7,9 @@ The main layout is defined but the `/_layouts/home.html` page. All the other pag
 The pages shown in the top right menu are all grouped in the root folder. Adding a page here will add an extra menu button.
 
 We have three collections:
-- Session
-- Speaker
 - Organizer
+- Speaker
+- Session
 
 ### Speaker Collection
 The speaker pages are located in `/_sprekers` and have three fields, the part beneath the last three dashes is used as a bio for the speaker. 
