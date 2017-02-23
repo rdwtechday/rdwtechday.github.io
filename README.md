@@ -42,4 +42,18 @@ bio
 
 A session is linked to a speaker through the sprekers field, the sprekers field must contain spreker.ref field. If so it will be shown linked to 
 
+### Session collection
+The session pages are located in `/_sessions` and have five fields, the part beneath the last three dashes is used as a description for the session. 
 
+- `speakers`: is a list of speakers doing the session. it is a list of the ref value in the speaker pages
+
+The speaker list can be formateed like this
+```yaml
+speakers: single-speaker
+```
+or like this when you have multiple speakers
+```yaml
+speakers: 
+- speaker-one
+- speaker-two
+```
