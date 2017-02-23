@@ -20,6 +20,11 @@ ref: john-doe
 titel: Chief Mugwump
 ---
 ```
+- `naam:` contains the name of the speaker
+- `ref`: contains a reference value which is used by the session collection and to find the speaker image in `/assets/people/<ref>.jpg`. No spaces allowed. I make it lower case and replace spaces by a `-` sign.
+- `titel`: The titel of the speaker
+
+
 
 A session is linked to a speaker through the sprekers field, the sprekers field must contain spreker.ref field. If so it will be shown linked to 
 
