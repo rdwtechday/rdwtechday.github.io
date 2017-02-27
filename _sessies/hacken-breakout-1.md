@@ -1,5 +1,7 @@
 ---
-sprekers: [luck-bron]
+sprekers:
+  - richard-mark
+  - joep-van-gassel
 track: Workshops
 titel: Zelf hacken Workshop 1
 tijd: 13:15-14:15
