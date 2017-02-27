@@ -1,6 +1,6 @@
 ---
-ref: stef-liethof
-naam: Stef Liethof
+ref: stef-liethoff
+naam: Stef Liethoff
 titel: Managing Partner en Chief Technical Officer
 ---
 Stef is als Managing Partner en Chief Technical Officer dé persoon binnen Nováccent
