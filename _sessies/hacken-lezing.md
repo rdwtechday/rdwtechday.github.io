@@ -1,5 +1,7 @@
 ---
-sprekers: [luck-bron]
+sprekers:
+  - martijn-mol
+  - richard-mark
 track: Inspiratie
 titel: Hacken? Zo simpel kan het zijn….
 tijd: 11:15-12:15
