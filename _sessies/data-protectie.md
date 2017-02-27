@@ -1,5 +1,5 @@
 ---
-sprekers: [luck-bron]
+sprekers: [stef-liethoff]
 track: Inspiratie
 titel: Data protectie en threats analytics, Buzzz woorden of toch niet?
 tijd: 10:00-11:00
