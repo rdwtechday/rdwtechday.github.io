@@ -1,6 +1,6 @@
 ---
 sprekers: [paul-brook]
-track: ClosingNote
+track: Closing Note
 titel: Machine Learning (Engelse Sessie) 
 tijd: 15:45-16:30
 locatie: Zaal D
