@@ -2,7 +2,7 @@
 sprekers:
   - martijn-mol
   - richard-mark
-track: Inspiratie
+track: Workshops
 titel: Hacken? Zo simpel kan het zijn….
 tijd: 10:00-11:00
 locatie: Zaal A
