@@ -4,4 +4,4 @@ ref: paul-brook
 titel: Chief Engineer
 ---
 
-Del-EMC
+EMEA Big Data Analytics Team Lead at Dell EMC
