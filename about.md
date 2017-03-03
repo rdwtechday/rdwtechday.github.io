@@ -3,7 +3,7 @@ layout: page
 title: De TECHDAY
 permalink: /about/
 ---
-Deze conferentie is een eendaags gesloten event, met 4 series van lezingen gericht op professionals met belangstelling voor de laatste stand van infrastructuur, software en de "always on" wereld met software defined computing waarin het verschil tussen infrastructuur en  software steeds kleiner wordt. 
+Deze conferentie op 14 maart 2017 is een eendaags gesloten event, met 4 series van lezingen gericht op professionals met belangstelling voor de laatste stand van infrastructuur, software en de "always on" wereld met software defined computing waarin het verschil tussen infrastructuur en  software steeds kleiner wordt. 
 
 Op het event zijn naast de sessies ook leuke activiteiten te doen: 
 - Het voeren van een gesprek met een [robot](https://www.ald.softbankrobotics.com/en/cool-robots/pepper)
