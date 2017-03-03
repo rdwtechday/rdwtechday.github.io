@@ -1,7 +1,7 @@
 ---
 sprekers: [prajeesh-prathap]
 track: Apps
-titel: Web Scale Architecture (English)
+titel: Web Scale Architecture (Engelse Sessie)
 tijd: 11:15-12:15
 locatie: Zaal A
 ---
