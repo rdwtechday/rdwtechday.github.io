@@ -1,5 +1,5 @@
 ---
-sprekers: [paul-brook]
+sprekers: [wolfgang-trenkle]
 track: Closing Note
 titel: Machine Learning (Engelse Sessie) 
 tijd: 15:45-16:30
