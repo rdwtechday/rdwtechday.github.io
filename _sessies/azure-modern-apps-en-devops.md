@@ -1,5 +1,7 @@
 ---
-sprekers: [mathieu-rietman]
+sprekers: 
+  - mathieu-rietman
+  - anthon-cnossen
 track: Inspiratie
 titel: Azure Modern applicatie en DevOps
 tijd: 14:30-15:30
