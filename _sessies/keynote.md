@@ -1,15 +1,15 @@
 ---
 sprekers: [henk-kolk]
 track: Keynote
-titel: Enabling agility at scale for the heavily regulated
+titel: Agility op schaal in zwaar gereguleerde organisaties
 tijd: 09:00-09:45
 locatie: Zaal A
 ---
-Lezing in het Nederlands
+ING heeft zijn IT vijf keer gereorganiseerd om agility en snelheid te verhogen. Na het introduceren van agile / scrum voor applicatieontwikkeling 6 jaar geleden heeft ING de IT-afdeling geherstructureerd in 180 agile DevOps teams. Daarna heeft ING de commerciële collega’s geïntegreerd in > 400 zelf-organiserende squads (BizDevOps), geïnspireerd door het organisatiemodel van Spotify.
+Twee jaar geleden heeft ING de HR-benadering voor softwareontwikkelaars veranderd om vakmanschap in softwareontwikkeling mogelijk te maken en te belonen. Vorig jaar heeft ING de infrastructuurafdeling geherstructureerd om de ontwikkelaars nog meer in hun kracht te zetten. De laatste stap is om een control framework te implementeren waarbij ontwikkelaars centraal staan en om pijplijnen van ontwikkeling naar productie zo in te richten dat IT-Risk gerelateerd handmatig werk en wachttijd tot het minimum kan worden beperkt. ING is ervan overtuigd dat om snel te kunnen gaan, ontwikkelaars in controle moeten zijn. Zulke veranderingen vereisen dat iedereen die hierbij betrokken is voortdurend blijft leren.
 
-ING reorganized IT five times to increase agility and speed. After going agile / scrum for application development 6 years ago ING restructured the IT department in 180 agile DevOps teams. Then ING integrated the commercial colleagues in > 400 self-organizing squads (BizDevOps) inspired by Spotify’s organizational model. Two years ago ING radically changed the people approach for software engineers to enable and reward engineering mastery. Last year ING restructured the infrastructure department empowering the engineers more. The last step is to implement an engineer centric control framework and fine-tune deployment pipelines to remove IT Risk related manual work and wait times. ING is convinced that in order to go fast, engineers need to be in control. Full stack. Such changes require a lot of learning from everybody involved. 
+**Belangrijkste punten:**
+Het ook op grotere schaal bewust kunnen omgaan met verandering vereist voor alle betrokkenen meerdere ingrijpende veranderingen in het denkpatroon. Deze lezing gaat over hoe ING is gekomen waar het nu is, en hoe ING daarmee worstelt (dit is iets goeds) om met de diverse infra, security, IT risk en audit afdelingen op één lijn te blijven. Henk gaat in op de principes die gelden voor een agile control framework en hoe dat vertaald kan worden in het ontwerp van een geïntegreerde infra – applicatie continuous delivery pijplijn. De hoofdprincipes die aan bod komen zijn: Resultaten boven voorschriften, Shift-left, , Immutable Servers, Cattle and Pets.  
 
-**Take-aways:**
-Agility at scale requires multiple paradigm shifts for every one involved. This talk addresses how ING got to where it is today, and how ING is struggling together (this is a good thing) to align with infra, security, IT risk and audit departments. Henk will talk about the principles that guide an agile control framework and how that translates into the design of an integrated infra – application continuous delivery pipeline. Main principles addressed are: Outcomes over impositions, Shift-left, Immutable Servers, Cattle and Pets.  
 
-[Earlier Talks](https://blog.docker.com/2014/12/dockercon-europe-keynote-continuous-delivery-in-the-enterprise-by-henk-kolk-ing/)
+[Eerdere lezing op Docker Con](https://blog.docker.com/2014/12/dockercon-europe-keynote-continuous-delivery-in-the-enterprise-by-henk-kolk-ing/)
