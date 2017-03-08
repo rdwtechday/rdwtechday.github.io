@@ -1,5 +1,5 @@
 ---
-sprekers: [dell-emc]
+sprekers: [guido-barendse]
 track: Infrastructuur
 titel: Software Defined Storage met Hyperconverged Infra Structure
 tijd: 11:15-12:15
