@@ -1,7 +1,7 @@
 ---
 naam: Henk Kolk
 ref: henk-kolk
-titel: Chief Engineer
+titel: Chief Engineer at ING
 ---
 Henk is Chief Engineer at ING. He is responsible for ING’s technology platform: ING’s systems and tools to manage, create, test and operate software for ING’s customers globally. Henk and his merry band of tech oriented product owners, designers, and full stack engineers support 10.000 customer focused product owners, designers and engineers in over 10 countries to deliver great products for ING’s customers with speed and reliability. “We can only go fast if we’re in control.”
 
