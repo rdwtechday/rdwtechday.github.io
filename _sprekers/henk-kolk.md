@@ -3,11 +3,9 @@ naam: Henk Kolk
 ref: henk-kolk
 titel: Chief Engineer
 ---
-Henk and his merry band of extraordinary engineers are designing, creating and operating the next generations of ING's global engineering platform. Challenges that thrill them are: 
-- how to focus the work of 700+ autonomous teams to deliver the most value for customers? 
-- how to create a compliant banking platform from version control to production within 24 hrs?
-- how to operate a self-repairing banking platform that is changed daily by thousands of engineers? 
-- how to control IT Risk while being completely transparent and factual to knowledgeable auditors?
-- how to re-skill people continuously in a world of fast changing technologies and so-called talent gaps?
+Henk is Chief Engineer at ING. He is responsible for ING’s technology platform: ING’s systems and tools to manage, create, test and operate software for ING’s customers globally. Henk and his merry band of tech oriented product owners, designers, and full stack engineers support 10.000 customer focused product owners, designers and engineers in over 10 countries to deliver great products for ING’s customers with speed and reliability. “We can only go fast if we’re in control.”
 
-ING's engineering platform bootstraps ING's banking platform. Our challenge is to deliver competitive advantage via a mix of cutting edge, in-house bred and mundane tools to 10.000 developers, ops engineers, designers, and product owners in 20 countries, 10 datacenters and 2 public cloud providers across the globe. 
+Henk built his first amplifiers and computers at high school, studied electronics at the University of Twente, and then started working as an independent programmer and advisor. Henk joined Ernst & Young Consulting, which was acquired by Capgemini. For Capgemini Henk built the Java unit for Financial Services, and became the unit manager for the Accelerated  Development unit. In Capgemini Henk was one of the distinguished (global) software engineers and part of the CTO network, delivering software and giving training in many countries. 
+
+Henk joined ING Netherlands in the midst of their agile transformation, and was responsible for the introduction and capability growth of open source technologies as an IT Manager. He worked for the Domestic Bank in the Netherlands for 3 years as the Chief Architect. Today he is global Chief Engineer, responsible for ING’s technology platform. Henk is on-boarding teams in various ING countries on continuous delivery and agile product management tooling to unify engineering culture and way of working. Henk is an expert on continuous delivery, DevOps, release engineering, test engineering, Agile/Scrum and IT transformation.
+
