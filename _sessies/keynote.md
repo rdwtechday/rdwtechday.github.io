@@ -10,4 +10,4 @@ ING reorganized IT five times to increase agility and speed. After going agile /
 *Take-aways:*
 Agility at scale requires multiple paradigm shifts for every one involved. This talk addresses how ING got to where it is today, and how ING is struggling together (this is a good thing) to align with infra, security, IT risk and audit departments. Henk will talk about the principles that guide an agile control framework and how that translates into the design of an integrated infra – application continuous delivery pipeline. Main principles addressed are: Outcomes over impositions, Shift-left, Immutable Servers, Cattle and Pets.  
 
-[Earlier Talks]<https://blog.docker.com/2014/12/dockercon-europe-keynote-continuous-delivery-in-the-enterprise-by-henk-kolk-ing/>
+[Earlier Talks](https://blog.docker.com/2014/12/dockercon-europe-keynote-continuous-delivery-in-the-enterprise-by-henk-kolk-ing/)
