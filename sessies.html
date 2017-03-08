@@ -14,9 +14,9 @@ tracks:
 <section class="col-sm-12">
   <img class="img-responsive" src="/assets/Schedule.png" alt="Schema" />
 </section>
-<p><a href="\sprekers#{{spreker.ref}}">Agenda als PDF</a></p>
 <p> &nbsp; </p>
-
+<p><a href="/assets//Rdw%20Techday%202017.pdf">Agenda als PDF</a></p>
+<p> &nbsp; </p>
 {% for track in page.tracks %}
   {% assign sorted_sessies = site.sessies | where: "track", track | sort:"tijd" %}
 
