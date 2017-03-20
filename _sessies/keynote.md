@@ -11,5 +11,8 @@ Twee jaar geleden heeft ING de HR-benadering voor softwareontwikkelaars verander
 **Belangrijkste punten:**
 Het ook op grotere schaal bewust kunnen omgaan met verandering vereist voor alle betrokkenen meerdere ingrijpende veranderingen in het denkpatroon. Deze lezing gaat over hoe ING is gekomen waar het nu is, en hoe ING daarmee worstelt (dit is iets goeds) om met de diverse infra, security, IT risk en audit afdelingen op één lijn te blijven. Henk gaat in op de principes die gelden voor een agile control framework en hoe dat vertaald kan worden in het ontwerp van een geïntegreerde infra – applicatie continuous delivery pijplijn. De hoofdprincipes die aan bod komen zijn: Resultaten boven voorschriften, Shift-left, , Immutable Servers, Cattle and Pets.  
 
-
+<div class="well col-sm-12">
+<a href="/assets/KeyNoteHenkKolk.pdf" target="_blank"><span class="btn btn-warning">Download KeyNote (PDF)</span></a>
+&nbsp;
+</div>
 [Eerdere lezing op Docker Con](https://blog.docker.com/2014/12/dockercon-europe-keynote-continuous-delivery-in-the-enterprise-by-henk-kolk-ing/)
