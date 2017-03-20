@@ -9,4 +9,10 @@ locatie: Zaal A
 ---
 In deze sessie wordt ingegaan op een deel van de diensten binnen Azure om snel applicaties te ontwikkelen en deze doormiddel van geïntegreerde Continuous Integration en Continuous Delivery mogelijkheden geautomatiseerd uit te rollen.
 Doel van de sessie is inzicht geven in deze mogelijkheden en de voordelen. Dit is doormiddel van slides en demo.
+<div class="well col-sm-12">
 
+<a href="/assets/AzureContinuousDeployMathieuRietman.pdf " target="_blank"><span class="btn btn-warning">Download slide seck (PDF)</span></a>
+
+&nbsp;
+
+</div>
