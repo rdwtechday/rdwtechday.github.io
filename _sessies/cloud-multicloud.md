@@ -13,7 +13,7 @@ VMware met betrekking tot Cross Cloud en Multi Cloud kan bieden
 
 <div class="well col-sm-12">
 
-<a href="/assets/CrossMulticloudRemcoBruin.pdf " target="_blank"><span class="btn btn-warning">Download Presentatie OORKOM VENDOR LOCK-IN (PDF)</span></a>
+<a href="/assets/CrossMulticloudRemcoBruin.pdf " target="_blank"><span class="btn btn-warning">Download Presentatie Voorkom Vendor LOCK-IN (PDF)</span></a>
 
 &nbsp;
 
