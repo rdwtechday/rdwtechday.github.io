@@ -11,4 +11,10 @@ willen voorkomen. In deze sessie zal Jan-Willem Lammers (CTO ambassador, VMware)
 bestaan om als organisatie keuze en vrijheid te houden. Leer over de technische mogelijkheden van vandaag en in de nabije toekomst die
 VMware met betrekking tot Cross Cloud en Multi Cloud kan bieden
 
+<div class="well col-sm-12">
 
+<a href="/assets/CrossMulticloudRemcoBruin.pdf " target="_blank"><span class="btn btn-warning">Download Presentatie OORKOM VENDOR LOCK-IN (PDF)</span></a>
+
+&nbsp;
+
+</div>
