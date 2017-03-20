@@ -11,7 +11,7 @@ In deze sessie wordt ingegaan op een deel van de diensten binnen Azure om snel a
 Doel van de sessie is inzicht geven in deze mogelijkheden en de voordelen. Dit is doormiddel van slides en demo.
 <div class="well col-sm-12">
 
-<a href="/assets/AzureContinuousDeployMathieuRietman.pdf " target="_blank"><span class="btn btn-warning">Download slide seck (PDF)</span></a>
+<a href="/assets/AzureContinuousDeployMathieuRietman.pdf " target="_blank"><span class="btn btn-warning">Download presentatie (PDF)</span></a>
 
 &nbsp;
 
