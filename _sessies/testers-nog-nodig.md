@@ -12,5 +12,11 @@ waar het heen kan gaan en hoe IT¬ers zich daar op kunnen voorbereiden. Hierbij 
 ervaring, literatuur zoals het TMap HD boek en andere bronnen zoals het spotify engineering model en de scrum guide.
 Samen merken we wat de omstandigheden zijn waarin testwerk wordt uitgevoerd en welke eisen dat aan de betrokkenen stelt. Ontdek welke "shape" jij als professional in de toekomst nodig hebt!!
 
+<div class="well col-sm-12">
 
+<a href="/assets/PastdetesternoginnieuweITRikMarselis.pdf" target="_blank"><span class="btn btn-warning">Download Presentatie Past het testvak nog in de nieuwe IT-wereld? (PDF)</span></a>
+
+&nbsp;
+
+</div>
 
