@@ -7,5 +7,11 @@ locatie: Zaal A
 ---
 Containerization met behulp van Docker, inzet van Release Management met TFS, test automation met behulp van SpecFlow, proactieve monitoring met ElasticSearch en Kibana en GIT als Source Control systeem. Welke tool gebruik je waarvoor en hoe houd je controle op een continuous delivery project. Vanuit een voorbeeld uit de praktijk wil ik laten zien hoe wij invulling geven aan dev ops en continuous delivery en hoe je dit beheersbaar houdt.
 
+<div class="well col-sm-12">
 
+<a href="/assets/ConDeliveryThomasBruggink.pdf " target="_blank"><span class="btn btn-warning">Download Presentatie continuous delivery (PDF)</span></a>
+
+&nbsp;
+
+</div>
 
