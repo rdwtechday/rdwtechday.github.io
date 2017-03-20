@@ -14,3 +14,10 @@ mobiel als een virtuele machine. In deze sessie zal Martijn Smit (CiscoChampion 
 Netwerk Virtualisatie.
 
 
+<div class="well col-sm-12">
+
+<a href="/assets/NetworkingRevolutionMartijnSmit.pdf" target="_blank"><span class="btn btn-warning">Download Presentatie Networking (R)evolution (PDF)</span></a>
+
+&nbsp;
+
+</div>
