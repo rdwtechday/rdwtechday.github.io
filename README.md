@@ -61,5 +61,7 @@ speakers:
 
 ## Network settings for this site
 add the following A records to your DNS seettings
+```
 @ A 192.30.252.153
 @ A 192.30.252.154
+```
